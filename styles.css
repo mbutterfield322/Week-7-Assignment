@@ -1,0 +1,50 @@
+body {
+    background-color:greenyellow;
+}
+
+h1 {
+    color:brown
+}
+
+h2 {
+    color:greenyellow
+}
+
+p {
+    color:brown
+}
+
+#about {
+    color:blueviolet
+}
+
+.position {
+    color:darkgreen
+}
+
+table {
+    border:2px darkmagenta solid
+}
+
+#image {
+    border-radius:50%;
+}
+
+#restaurant-header {
+    font-size:35px
+}
+
+.employee-name {
+    color:darkgreen;
+    font-weight:bold
+}
+
+#review-form {
+    color:crimson;
+    font-weight:bold
+}
+
+a {
+    color:black;
+    font-weight:bold
+}
